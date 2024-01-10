@@ -35,3 +35,12 @@ Antes de executar o programa, certifique-se de ter os seguintes requisitos insta
 
 # Configuração
 1 - Obtenha sua chave da API OpenAI em https://beta.openai.com/signup/.
+2 - Substitua a chave no arquivo.
+
+
+
+Lembre-se de substituir nome_do_programa.py pelo nome real do seu arquivo principal. Esta é uma documentação básica e você pode expandi-la conforme necessário para se adequar ao seu projeto.
+
+
+
+
