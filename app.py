@@ -1,8 +1,13 @@
 import openai
 import gradio as gr
+import configparser
 
-# Substitua "sua-chave-aqui" pela sua chave real da API OpenAI
-api_key = "sk-************************************************"
+# Carregando a chave da API do arquivo application.properties
+config = configparser.ConfigParser()
+config.read("resources/application.properties")
+api_key = config["openai"]["api.key"]
+
+# Configurando a chave da API OpenAI
 openai.api_key = api_key
 
 # Initialize messages with a system message
