@@ -33,9 +33,9 @@ Antes de executar o programa, certifique-se de ter os seguintes requisitos insta
 - Python 3.x
 - Biblioteca openai (pode ser instalada com pip install openai)
 
-# Configuração
+Configuração
 1 - Obtenha sua chave da API OpenAI em https://beta.openai.com/signup/.
-2 - Substitua a chave no arquivo.
+2 - Substitua a chave no arquivo application.properties.
 
 
 
