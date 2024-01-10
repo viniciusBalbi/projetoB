@@ -9,6 +9,7 @@ O programa segue um fluxo simples:
 1.Entrada do Usuário:
 
   - Solicita ao usuário que forneça uma ideia de negócio.
+    
 2.Resposta do Chatbot:
 
   - Utiliza a ideia fornecida como prompt para a API GPT-3.5-turbo da OpenAI.
@@ -17,7 +18,7 @@ O programa segue um fluxo simples:
 3.Exibição da Resposta:
 
   - Exibe a resposta gerada pelo chatbot.
-  - 
+   
 4.Geração de Ideias de Startups:
 
   - Opcionalmente, o programa pode incluir uma lógica mais elaborada para processar a resposta e extrair ideias específicas de startups.
