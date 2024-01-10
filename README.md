@@ -8,7 +8,7 @@ O programa segue um fluxo simples:
 
 #### 1. Entrada do Usuário:
 
-  - Solicita ao usuário que forneça uma ideia de negócio.
+  - Solicita ao usuário que forneça uma ideia de negócio(Assim como chat, tente elaborar o máximo possível sua pergunta para obter uma melhor resposta)
     
 #### 2. Resposta do Chatbot:
 
